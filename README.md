@@ -9,10 +9,17 @@ Guide](http://emberjs.com/guides/getting-started/) in Coffeescript.
 for this project.  These slides were used for a work presentation: "Ember
 101."
 
+**Disclaimer:**  These slides are not a definitive guide or source for
+Ember.js or Coffeescript.  They are just my presentation notes to guide my
+developer lunch presentation.
+
 ### Reveal.js
 
-These slides use the fantastic [reveal.js
+This project is based on the fantastic [reveal.js
 library](https://github.com/hakimel/reveal.js).
+
+The arrow keys used for navigation are current hidden; use the left and right
+arrow to navigate the slides.
 
 ### Links
 
